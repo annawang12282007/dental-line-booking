@@ -1,0 +1,14 @@
+# Copy to .dev.vars and fill with your own configuration. Never commit that file.
+PUBLIC_ORIGIN=https://your-own-demo.example
+LINE_PROVIDER_ID=
+LINE_LOGIN_CHANNEL_ID=
+LINE_LIFF_ID=
+LINE_CONNECTION_KEY=demo-line
+LINE_WEBHOOK_ENABLED=false
+
+# Secrets: use the hosting platform's protected secret store when deployed.
+LINE_CHANNEL_SECRET=
+LINE_INBOX_HASH_SECRET=
+BOOKING_SECURITY_KEY=
+BOOKING_ADMIN_LINE_ID=
+LINE_CHANNEL_ACCESS_TOKEN=

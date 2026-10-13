@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791882335313,
+      "tag": "0000_freezing_karen_page",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791882824200,
+      "tag": "0001_cynical_roulette",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791884187632,
+      "tag": "0002_lush_mister_fear",
+      "breakpoints": true
+    }
+  ]
+}
